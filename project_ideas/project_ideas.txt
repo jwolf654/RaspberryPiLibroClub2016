@@ -1,0 +1,3 @@
+1) Digital Signage - Use Pi to output images/signs to a TV screen. Be able to update images through a web interface.
+
+2) Wheeled drone. Add wheels to the Raspberry Pi. A million different projects can be added to this. Give it a camera, web interface for control/webcam viewing, robot arm, microphone, speakers, proximity sensor, computer vision applications, nerf gun/water gun...We can add literally anything that interests us to a small drone.
