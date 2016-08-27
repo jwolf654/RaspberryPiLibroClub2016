@@ -1,0 +1,1 @@
+This is for Git practice. Pretend that this is a code source file. Multiple people need to work on it, probably adding different features that will need to be merged together at some point.
